@@ -1,0 +1,43 @@
+#sdbar 
+{ 
+  display: none;
+  height: 100%;
+  font-family: 'Oswald', sans-serif; 
+  padding: 0 0 0 50px;
+}
+.warp {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  background-color: rgb(255, 255, 255);
+  padding: 0px 30px;
+  border-right: 3px solid #CDE700;
+  box-shadow: 1px 2px 3px rgba(0,0,0,0.2);
+}
+.warp ul {
+  list-style-type: none;
+  padding: 0;
+}
+.warp a {
+  display:block;
+  padding: 10px;
+  text-decoration: none;
+}
+.menu {
+  display: flex;
+  width: 35%;
+  background: white;
+  flex-direction: row;
+}
+#menu1 {
+ 
+  margin: 10px;
+}
+#nihal {
+  padding: 10px;
+  background: white;
+  position: absolute;
+  right: 10px;
+}
+
+
