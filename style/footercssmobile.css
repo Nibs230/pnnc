@@ -48,7 +48,9 @@ height: 3 vh ;
   background: #55ACEE;
   color: white;
 }
-
+#ln1{
+    width: 7vw;
+}
 .fa-linkedin {
  /* position: fixed;
   right: 0; */
@@ -57,9 +59,7 @@ height: 3 vh ;
   background: #007bb5;
   color: white;
 }
-#ln1 {
- width:7vw;
-}	
+
 #abt {
 
 	position: fixed;
