@@ -57,7 +57,9 @@ height: 3 vh ;
   background: #007bb5;
   color: white;
 }
-
+#ln1 {
+ width:7vw;
+}	
 #abt {
 
 	position: fixed;
